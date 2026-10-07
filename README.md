@@ -165,19 +165,9 @@ The password-protected PDF was processed to obtain the password hash required fo
 
 The extracted hash was saved for use with John the Ripper.
 
-📸 Evidence
-
-![](pdf-hash.png)
-
-
 ### Step 2. Load the Hash
 
 The generated PDF hash was provided to John the Ripper for password recovery testing.
-
-📸 Evidence
-
-![](hashcalcu-1.png)
-
 
 ## 🔓 Module 4 — Password Recovery
 
@@ -290,6 +280,7 @@ I didn't extract the run folder of John application hence while enterign the pat
 
 📸 Evidence
 
+![](hashcalcu-3.png)
 ## 🔗 Tools & Resources
 
 John the Ripper: https://www.openwall.com/john/
