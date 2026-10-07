@@ -278,9 +278,10 @@ Through this Week 3 project, I learned how password recovery tools can be used f
 ## 🧠 Problems faced by me
 I didn't extract the run folder of John application hence while enterign the path of 'john.exe', I got error of the path shown below. I solved the issue by extracting the file first and then passing it, it was accepted later.
 
-📸 Evidence
+![](error.png)
 
-![](hashcalcu-3.png)
+![](detected-JTR.png)
+
 ## 🔗 Tools & Resources
 
 John the Ripper: https://www.openwall.com/john/
